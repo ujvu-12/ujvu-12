@@ -20,5 +20,3 @@
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ujvwala-reddy-p-b1602437a/)  
 
-## 📈 GitHub Stats
-![Ujwala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujvwala-reddy&show_icons=true&theme=radical)
